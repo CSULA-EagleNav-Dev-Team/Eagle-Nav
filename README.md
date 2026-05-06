@@ -50,3 +50,7 @@ If you are working on the routing engine, custom paths, or Valhalla integration,
 
 - [Navigation Setup Guide](https://github.com/Shadowslayz/Eagle-Nav/blob/Path-Tracing-MVP/eaglenav/Routing_Setup/README.md)
 - [Path Injection Setup Guide](https://github.com/Shadowslayz/Eagle-Nav/blob/Path-Tracing-MVP/eaglenav/assets/data/valhalla/path_injection.md)
+- [IOS App Testing Deployment Build Only](https://github.com/CSULA-EagleNav-Dev-Team/Eagle-Nav/blob/main/eaglenav/ios_deployment.md)
+
+
+
